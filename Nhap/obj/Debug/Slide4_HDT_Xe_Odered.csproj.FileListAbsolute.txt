@@ -1,0 +1,6 @@
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\Slide4_HDT_Monhoc\Nhap\bin\Debug\Nhap.exe.config
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\Slide4_HDT_Monhoc\Nhap\bin\Debug\Nhap.exe
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\Slide4_HDT_Monhoc\Nhap\bin\Debug\Nhap.pdb
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\Slide4_HDT_Monhoc\Nhap\obj\Debug\Slide4_HDT_Xe_Odered.csprojResolveAssemblyReference.cache
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\Slide4_HDT_Monhoc\Nhap\obj\Debug\Nhap.exe
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\Slide4_HDT_Monhoc\Nhap\obj\Debug\Nhap.pdb

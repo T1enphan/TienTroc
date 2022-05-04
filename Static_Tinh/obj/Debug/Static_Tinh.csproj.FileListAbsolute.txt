@@ -1,0 +1,9 @@
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\Slide4_HDT_Monhoc\Static_Tinh\bin\Debug\Static_Tinh.exe.config
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\Slide4_HDT_Monhoc\Static_Tinh\bin\Debug\Static_Tinh.exe
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\Slide4_HDT_Monhoc\Static_Tinh\bin\Debug\Static_Tinh.pdb
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\Slide4_HDT_Monhoc\Static_Tinh\obj\Debug\Static_Tinh.csprojResolveAssemblyReference.cache
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\Slide4_HDT_Monhoc\Static_Tinh\obj\Debug\Static_Tinh.exe
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\Slide4_HDT_Monhoc\Static_Tinh\obj\Debug\Static_Tinh.pdb
+C:\Users\KHUONG\Desktop\Slide4_HDT_Monhoc\Static_Tinh\bin\Debug\Static_Tinh.exe.config
+C:\Users\KHUONG\Desktop\Slide4_HDT_Monhoc\Static_Tinh\obj\Debug\Static_Tinh.exe
+C:\Users\KHUONG\Desktop\Slide4_HDT_Monhoc\Static_Tinh\obj\Debug\Static_Tinh.pdb

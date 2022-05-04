@@ -1,0 +1,12 @@
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\Slide4_HDT_Monhoc\MonHoc\obj\Debug\DSMonHoc_Dictionary.csprojResolveAssemblyReference.cache
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\Slide4_HDT_Monhoc\MonHoc\obj\Debug\MonHoc.exe
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\Slide4_HDT_Monhoc\MonHoc\obj\Debug\MonHoc.pdb
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\Slide4_HDT_Monhoc\MonHoc\bin\Debug\MonHoc.exe.config
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\Slide4_HDT_Monhoc\MonHoc\bin\Debug\MonHoc.exe
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\Slide4_HDT_Monhoc\MonHoc\bin\Debug\MonHoc.pdb
+C:\Users\KHUONG\Desktop\Slide4_HDT_Monhoc\MonHoc\bin\Debug\MonHoc.exe.config
+C:\Users\KHUONG\Desktop\Slide4_HDT_Monhoc\MonHoc\bin\Debug\MonHoc.exe
+C:\Users\KHUONG\Desktop\Slide4_HDT_Monhoc\MonHoc\bin\Debug\MonHoc.pdb
+C:\Users\KHUONG\Desktop\Slide4_HDT_Monhoc\MonHoc\obj\Debug\DSMonHoc_Dictionary.csprojResolveAssemblyReference.cache
+C:\Users\KHUONG\Desktop\Slide4_HDT_Monhoc\MonHoc\obj\Debug\MonHoc.exe
+C:\Users\KHUONG\Desktop\Slide4_HDT_Monhoc\MonHoc\obj\Debug\MonHoc.pdb

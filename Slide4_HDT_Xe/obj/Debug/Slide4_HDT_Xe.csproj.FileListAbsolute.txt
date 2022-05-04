@@ -1,0 +1,15 @@
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\Slide4_HDT_Xe\Slide4_HDT_Xe\bin\Debug\Slide4_HDT_Xe.exe.config
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\Slide4_HDT_Xe\Slide4_HDT_Xe\bin\Debug\Slide4_HDT_Xe.exe
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\Slide4_HDT_Xe\Slide4_HDT_Xe\bin\Debug\Slide4_HDT_Xe.pdb
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\Slide4_HDT_Xe\Slide4_HDT_Xe\obj\Debug\Slide4_HDT_Xe.csprojResolveAssemblyReference.cache
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\Slide4_HDT_Xe\Slide4_HDT_Xe\obj\Debug\Slide4_HDT_Xe.exe
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\Slide4_HDT_Xe\Slide4_HDT_Xe\obj\Debug\Slide4_HDT_Xe.pdb
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\Slide4_HDT_Monhoc\Slide4_HDT_Xe\bin\Debug\Slide4_HDT_Xe.exe.config
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\Slide4_HDT_Monhoc\Slide4_HDT_Xe\obj\Debug\Slide4_HDT_Xe.exe
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\Slide4_HDT_Monhoc\Slide4_HDT_Xe\obj\Debug\Slide4_HDT_Xe.pdb
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\Slide4_HDT_Monhoc\Slide4_HDT_Xe\bin\Debug\Slide4_HDT_Xe.exe
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\Slide4_HDT_Monhoc\Slide4_HDT_Xe\bin\Debug\Slide4_HDT_Xe.pdb
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\Slide4_HDT_Monhoc\Slide4_HDT_Xe\obj\Debug\Slide4_HDT_Xe.csprojResolveAssemblyReference.cache
+C:\Users\KHUONG\Desktop\Slide4_HDT_Monhoc\Slide4_HDT_Xe\bin\Debug\Slide4_HDT_Xe.exe.config
+C:\Users\KHUONG\Desktop\Slide4_HDT_Monhoc\Slide4_HDT_Xe\obj\Debug\Slide4_HDT_Xe.exe
+C:\Users\KHUONG\Desktop\Slide4_HDT_Monhoc\Slide4_HDT_Xe\obj\Debug\Slide4_HDT_Xe.pdb

@@ -1,0 +1,6 @@
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\Slide4_HDT_Monhoc\DSMonHoc_Dictionary_SV\obj\Debug\DSMonHoc_Dictionary_SV.csprojResolveAssemblyReference.cache
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\Slide4_HDT_Monhoc\DSMonHoc_Dictionary_SV\bin\Debug\DSMonHoc_Dictionary_SV.exe.config
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\Slide4_HDT_Monhoc\DSMonHoc_Dictionary_SV\bin\Debug\DSMonHoc_Dictionary_SV.exe
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\Slide4_HDT_Monhoc\DSMonHoc_Dictionary_SV\bin\Debug\DSMonHoc_Dictionary_SV.pdb
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\Slide4_HDT_Monhoc\DSMonHoc_Dictionary_SV\obj\Debug\DSMonHoc_Dictionary_SV.exe
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\Slide4_HDT_Monhoc\DSMonHoc_Dictionary_SV\obj\Debug\DSMonHoc_Dictionary_SV.pdb
